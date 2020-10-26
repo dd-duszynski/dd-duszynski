@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Damian.
+#### Frontend developer and UX/UI enhusiast.
 
-<!--
-**dd-duszynski/dd-duszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp;
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am patiently waiting for the return of the great AC Milan! :relieved:
+
+
+

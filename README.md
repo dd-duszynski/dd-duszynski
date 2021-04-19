@@ -4,12 +4,12 @@
 ---
 #### Feel free to contact me 
 ##### ✉️ dd.duszynski@gmail.com
-##### 💻 dd-duszynski.pl
+##### 💻 https://dd-duszynski.pl
 ---
 #### Here you will find some of my projects.
-##### 💻 Big Five - https://dd-duszynski.github.io/big-five/#/
-##### 💻 PrintXL - https://printxl.pl/
-##### 💻 Kanbanator - https://printxl.pl/ 
+##### 💻 [Big Five](https://dd-duszynski.github.io/big-five/) | [Repository](https://github.com/dd-duszynski/big-five)
+##### 💻 [PrintXL](https://printxl.pl/) | [Repository](https://github.com/dd-duszynski/pxlGatsby)
+##### 💻 [Kanbanator](https://printxl.pl/) | [Repository](https://github.com/dd-duszynski/kanbanator)
 
 
 

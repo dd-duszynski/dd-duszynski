@@ -17,11 +17,21 @@
 ###### Personal Website
 ---
 #### Tools & technology:
-<img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="24"> &nbsp;&nbsp;
-<img alt="CSS" title="CSS" src="https://seekicon.com/free-icon-download/css-3_2.svg" height="24"> &nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" src="https://seekicon.com/free-icon-download/javascript_3.svg" height="24"> &nbsp;&nbsp;
-<img alt="React" title="React" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;
-<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;
-
+<img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="CSS" title="CSS" src="https://seekicon.com/free-icon-download/css-3_2.svg" height="28"> &nbsp;&nbsp;
+<img alt="Sass" title="Sass" src="https://seekicon.com/free-icon-download/sass_4.svg" height="28"> &nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://seekicon.com/free-icon-download/javascript_3.svg" height="28"> &nbsp;&nbsp;
+<img alt="React" title="React" src="https://seekicon.com/free-icon-download/reactjs_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="Redux" title="Redux" src="https://seekicon.com/free-icon-download/redux_2.svg" height="28"> &nbsp;&nbsp;
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="Material UI" title="Material UI" src="https://seekicon.com/free-icon-download/material-ui_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="Node.js / Express.js" title="Node.js / Express.js" src="https://seekicon.com/free-icon-download/nodejs_2.svg" height="28"> &nbsp;&nbsp;
+<img alt="MySQL" title="MySQL" src="https://seekicon.com/free-icon-download/mysql_4.svg" height="28"> &nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://seekicon.com/free-icon-download/git_6.svg" height="28"> &nbsp;&nbsp;
+<img alt="VSC" title="VSC" src="https://seekicon.com/free-icon-download/visual-studio-code_2.svg" height="28"> &nbsp;&nbsp;
+<img alt="Figma" title="Figma" src="https://seekicon.com/free-icon-download/figma_5.svg" height="28"> &nbsp;&nbsp;
+<img alt="Adobe XD" title="Adobe XD" src="https://seekicon.com/free-icon-download/adobe-xd_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="Scrum" title="Scrum" src="https://seekicon.com/free-icon-download/scrum_1.svg" height="28"> &nbsp;&nbsp;
+<img alt="Kanban" title="Kanban" src="https://seekicon.com/free-icon-download/adobe-xd_1.svg" height="28"> &nbsp;&nbsp;
 
 

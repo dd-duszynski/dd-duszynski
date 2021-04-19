@@ -17,11 +17,11 @@
 ###### Personal Website
 ---
 #### Tools & technology:
-<img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="24"> &nbsp;&nbsp
-<img alt="CSS" title="CSS" src="https://seekicon.com/free-icon-download/css-3_2.svg" height="24"> &nbsp;&nbsp
-<img alt="JavaScript" title="JavaScript" src="https://seekicon.com/free-icon-download/javascript_3.svg" height="24"> &nbsp;&nbsp
-<img alt="React" title="React" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp
-<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp
+<img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="24"> &nbsp;&nbsp;
+<img alt="CSS" title="CSS" src="https://seekicon.com/free-icon-download/css-3_2.svg" height="24"> &nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://seekicon.com/free-icon-download/javascript_3.svg" height="24"> &nbsp;&nbsp;
+<img alt="React" title="React" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;
 
 
 

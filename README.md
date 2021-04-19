@@ -1,14 +1,14 @@
-### Hello, my name is Damian.
-### Committed and self-motivated Frontend Developer with a great passion for UX/UI and web technologies. 
-### Privately, a fan of ⚽ football, and 🚴 cycling.
-### Feel free to contact me 
-✉️ dd.duszynski@gmail.com
-💻 dd-duszynski.pl
+## Hello, my name is Damian.
+## Committed and self-motivated Frontend Developer with a great passion for UX/UI and web technologies. 
+## Privately, a fan of ⚽ football, and 🚴 cycling.
+## Feel free to contact me 
+# ✉️ dd.duszynski@gmail.com
+# 💻 dd-duszynski.pl
 
 ## Here you will find some of my projects.
-💻 Big Five - https://dd-duszynski.github.io/big-five/#/
-💻 PrintXL - https://printxl.pl/
-💻 Kanbanator - https://printxl.pl/
+# 💻 Big Five - https://dd-duszynski.github.io/big-five/#/
+# 💻 PrintXL - https://printxl.pl/
+# 💻 Kanbanator - https://printxl.pl/
 
 
 - 🔭 I’m currently working on

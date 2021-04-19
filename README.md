@@ -4,7 +4,7 @@
 #### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
 ---
 #### Feel free to contact me: 
-##### ✉️ dd.duszynski@gmail.com
+##### 💌 dd.duszynski@gmail.com
 ---
 #### Here you will find some of my projects.
 ##### 💻 [dd-duszynski.pl](https://dd-duszynski.pl) | [Repository](https://github.com/dd-duszynski/dd-duszynski.github.io) 

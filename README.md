@@ -4,13 +4,13 @@
 #### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
 ---
 #### Feel free to contact me: 
-##### 💻 [Personal Website](https://dd-duszynski.pl) 
 ##### ✉️ dd.duszynski@gmail.com
 ---
 #### Here you will find some of my projects.
 ##### 💻 [Big Five](https://dd-duszynski.github.io/big-five/) | [Repository](https://github.com/dd-duszynski/big-five) | Website created for the needs of a large-format printing house. Written using the Gatsby.js framework. The main goal was to present a rich offer and easier access to technical specifications.
 ##### 💻 [PrintXL](https://printxl.pl/) | [Repository](https://github.com/dd-duszynski/pxlGatsby) | Website created for the needs of a large-format printing house. Written using the Gatsby.js framework. The main goal was to present a rich offer and easier access to technical specifications.
 ##### 💻 [Kanbanator](https://printxl.pl/) | [Repository](https://github.com/dd-duszynski/kanbanator) | Website created for the needs of a large-format printing house. Written using the Gatsby.js framework. The main goal was to present a rich offer and easier access to technical specifications.
+##### 💻 [dd-duszynski.pl](https://dd-duszynski.pl) | [Repository](https://github.com/dd-duszynski/dd-duszynski.github.io) | Personal Website
 ---
 #### Tools & technology:
 <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp;

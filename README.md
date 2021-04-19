@@ -1,6 +1,6 @@
 ![dd-duszynski.pl](http://dd-duszynski.pl/static/media/githubHero.jpg "dd-duszynski.pl")
 #### Hello, my name is Damian Duszyński.
-#### Committed and self-motivated 👨‍💻 Frontend Developer with a great passion for 🖌️ UX/UI and ⌨️ web technologies. 
+#### Committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies. 
 #### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
 ---
 #### Feel free to contact me: 

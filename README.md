@@ -1,5 +1,5 @@
 ![dd-duszynski.pl](http://dd-duszynski.pl/static/media/HeroImg.jpg "dd-duszynski.pl")
-### About me:
+### About:
 #### My name is Damian Duszyński. I'm committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies. 
 #### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
 ---

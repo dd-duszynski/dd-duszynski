@@ -1,10 +1,10 @@
 ![dd-duszynski.pl](http://dd-duszynski.pl/static/media/HeroImg.jpg "dd-duszynski.pl")
-### Hello, my name is Damian Duszyński.
-### Committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies. 
-### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
+### About me:
+#### My name is Damian Duszyński. I'm committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies. 
+#### I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling. 
 ---
 ### Feel free to contact me: 
-#### <img alt="linkedin" title="linkedin" src="https://seekicon.com/free-icon-download/mail_7.svg" height="20"> &nbsp;&nbsp; dd.duszynski@gmail.com
+#### <img alt="linkedin" title="linkedin" src="https://seekicon.com/free-icon-download/mail_19.svg" height="20"> &nbsp;&nbsp; dd.duszynski@gmail.com
 #### <img alt="linkedin" title="linkedin" src="https://seekicon.com/free-icon-download/linkedin_13.svg" height="20"> &nbsp;&nbsp; [dd-duszynski](https://www.linkedin.com/in/dd-duszynski)
 ---
 ### Projects:

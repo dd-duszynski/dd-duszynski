@@ -6,22 +6,22 @@
 ---
 
 ## Contact: 
-#### [dd.duszynski@gmail.com](mailto:dd.duszynski@gmail.com)
-#### [linkedin.com/in/dd-duszynski](https://www.linkedin.com/in/dd-duszynski)
+#### <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/envelope-letter_1.svg" height="28"> &nbsp;&nbsp; [dd.duszynski@gmail.com](mailto:dd.duszynski@gmail.com)
+#### <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/linkedin-option_1.svg" height="28"> &nbsp;&nbsp; [linkedin.com/in/dd-duszynski](https://www.linkedin.com/in/dd-duszynski)
 
 ---
 
 ## Projects:
-#### [dd-duszynski.pl - link](https://dd-duszynski.pl) | [Repository](https://github.com/dd-duszynski/dd-duszynski.github.io) 
+#### [dd-duszynski.pl - link](https://dd-duszynski.pl) | [repository](https://github.com/dd-duszynski/dd-duszynski.github.io) 
 <p>My personal Website. There you will find more information about me and a more detailed description of my projects.</p>
 
-#### [Big Five - link](https://dd-duszynski.github.io/big-five/) | [Repository](https://github.com/dd-duszynski/big-five) 
+#### [Big Five - link](https://dd-duszynski.github.io/big-five/) | [repository](https://github.com/dd-duszynski/big-five) 
 <p>An application created with passion for football. It allows you to view and sort the results of the five biggest leagues in the world, top scorers and upcoming matches.</p>
 
-#### [PrintXL - link](https://printxl.pl/) | [Repository](https://github.com/dd-duszynski/pxlGatsby) 
+#### [PrintXL - link](https://printxl.pl/) | [repository](https://github.com/dd-duszynski/pxlGatsby) 
 <p>Website created for the needs of a large-format printing house. Written using the Gatsby.js framework. The main goal was to present a rich offer and easier access to contact and technical specifications.</p>
 
-#### Kanbanator - under construction | [Repository](https://github.com/dd-duszynski/kanbanator)
+#### Kanbanator - under construction | [repository](https://github.com/dd-duszynski/kanbanator)
 <p>An application modeled on Trello. It allows you to register and log in, create new lists and cards with tasks to be performed.</p>
 
 ---

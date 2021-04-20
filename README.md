@@ -1,4 +1,3 @@
-![dd-duszynski.pl](http://dd-duszynski.pl/static/media/github.jpg "dd-duszynski.pl")
 ## About me:
 <p>Hi, my name is Damian. I'm committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies.</p>
 <p>I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling.</p>
@@ -12,7 +11,7 @@
 ---
 
 ## Projects:
-#### [dd-duszynski.pl - link](https://dd-duszynski.pl) | [repository](https://github.com/dd-duszynski/dd-duszynski.github.io) 
+#### [dd-duszynski - link](https://dd-duszynski.pl) | [repository](https://github.com/dd-duszynski/dd-duszynski.github.io) 
 <p>My personal Website. There you will find more information about me and a more detailed description of my projects.</p>
 
 #### [Big Five - link](https://dd-duszynski.github.io/big-five/) | [repository](https://github.com/dd-duszynski/big-five) 

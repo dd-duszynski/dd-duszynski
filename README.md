@@ -19,9 +19,6 @@
 <a href="https://printxl.pl/" target="_blank">PrintXL</a> | <a href="https://github.com/dd-duszynski/pxlGatsby" target="_blank">repository</a>
 <p>Redesign of the website for a digital large-format printing house. The website was prepared in four language versions. Its main purpose was to facilitate contact, present a wide range of products and materials, as well as quick access to file preparation instructions.</p>
 
-<a href="#" target="_blank">Kanbanator - under construction</a> | <a href="https://github.com/dd-duszynski/kanbanator" target="_blank">repository</a>
-<p>An application modeled on Trello. It allows you to register and log in, create new lists and cards with tasks to be performed.</p>
-
 ## Tools & technology:
 <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="28"> &nbsp;&nbsp;
 <img alt="CSS" title="CSS" src="https://seekicon.com/free-icon-download/css-3_2.svg" height="28"> &nbsp;&nbsp;

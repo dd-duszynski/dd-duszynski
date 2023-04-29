@@ -1,6 +1,6 @@
 ## About me:
-<p>Hi, my name is Damian. I'm committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and web technologies.</p>
-<p>I'm looking for new opportunities to work with digital products that solve real problems and ensuring a great user experience. Privately, a fan of ⚽ football, and 🚴cycling.</p>
+<p>Hi, my name is Damian. I'm committed and self-motivated 👨‍💻 Frontend Developer with a great passion for UX/UI and modern technologies.</p>
+<p>Privately, a fan of football, dogs and sci-fi movies.</p>
 
 ## Contact: 
 <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/envelope-letter_1.svg" height="28"> &nbsp;&nbsp; 
@@ -8,10 +8,6 @@
 </br></br>
 <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/linkedin-option_1.svg" height="28"> &nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/dd-duszynski">linkedin.com/in/dd-duszynski</a>
-
-## Projects:
-<a href="https://printxl.pl/" target="_blank">PrintXL</a> | <a href="https://github.com/dd-duszynski/pxlGatsby" target="_blank">repository</a>
-<p>Redesign of the website for a digital large-format printing house. The website was prepared in four language versions. Its main purpose was to facilitate contact, present a wide range of products and materials, as well as quick access to file preparation instructions.</p>
 
 ## Tools & technology:
 <img alt="HTML" title="HTML" src="https://seekicon.com/free-icon-download/html-5_1.svg" height="28"> &nbsp;&nbsp;

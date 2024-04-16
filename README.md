@@ -10,6 +10,7 @@ Privately, I'm a fan of ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-
 - 📚 I’m currently learning:
   - Next.js
   - Node.js
+  - Tailwind CSS
 
 ## Contact: 
 <img alt="mail" title="mail" src="https://seekicon.com/free-icon-download/envelope-letter_1.svg" height="28"> &nbsp;&nbsp; 
@@ -29,13 +30,15 @@ Privately, I'm a fan of ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-
 
 <img alt="Sass" title="Sass" src="https://seekicon.com/free-icon-download/sass_4.svg" height="28"> &nbsp;&nbsp; [SASS](https://sass-lang.com/) &nbsp;&nbsp;
 
+<img alt="Tailwind CSS" title="Tailwind" src="https://www.svgrepo.com/show/333609/tailwind-css.svg" height="28"> &nbsp;&nbsp; [Tailwind CSS](https://tailwindcss.com) &nbsp;&nbsp;
+
 <img alt="React" title="React" src="https://seekicon.com/free-icon-download/reactjs_1.svg" height="28"> &nbsp;&nbsp; [React](https://react.dev/) &nbsp;&nbsp;
 
-<img alt="Next.js" title="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="23"> &nbsp;[Next.js](https://nextjs.org/) &nbsp;&nbsp;
+<img alt="Next.js" title="Next" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="23"> &nbsp;[Next.js](https://nextjs.org/) &nbsp;&nbsp;
 
 <img alt="Redux" title="Redux" src="https://seekicon.com/free-icon-download/redux_2.svg" height="28"> &nbsp;&nbsp; [Redux](https://redux.js.org/) &nbsp;&nbsp;
 
-<img alt="Node.js" title="Node.js / Express.js" src="https://seekicon.com/free-icon-download/nodejs_2.svg" height="28"> &nbsp;&nbsp; [Node.js](https://nodejs.org/en) &nbsp;&nbsp;
+<img alt="Node" title="Node" src="https://seekicon.com/free-icon-download/nodejs_2.svg" height="28"> &nbsp;&nbsp; [Node.js](https://nodejs.org/en) &nbsp;&nbsp;
 
 <img alt="Git" title="Git" src="https://seekicon.com/free-icon-download/git_6.svg" height="28"> &nbsp;&nbsp; [Git](https://git-scm.com/) &nbsp;&nbsp;
 

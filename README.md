@@ -30,7 +30,7 @@ Privately, I'm a fan of ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-
 
 <img alt="Sass" title="Sass" src="https://seekicon.com/free-icon-download/sass_4.svg" height="28"> &nbsp;&nbsp; [SASS](https://sass-lang.com/) &nbsp;&nbsp;
 
-<img alt="Tailwind CSS" title="Tailwind" src="https://www.svgrepo.com/show/333609/tailwind-css.svg" height="28"> &nbsp;&nbsp; [Tailwind CSS](https://tailwindcss.com) &nbsp;&nbsp;
+<img alt="Tailwind CSS" title="Tailwind" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" height="28"> &nbsp;&nbsp; [Tailwind CSS](https://tailwindcss.com) &nbsp;&nbsp;
 
 <img alt="React" title="React" src="https://seekicon.com/free-icon-download/reactjs_1.svg" height="28"> &nbsp;&nbsp; [React](https://react.dev/) &nbsp;&nbsp;
 
@@ -42,7 +42,7 @@ Privately, I'm a fan of ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-
 
 <img alt="Git" title="Git" src="https://seekicon.com/free-icon-download/git_6.svg" height="28"> &nbsp;&nbsp; [Git](https://git-scm.com/) &nbsp;&nbsp;
 
-<img alt="Copilot" title="Copilot" src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" height="25"> &nbsp;&nbsp; [Copilot](https://github.com/features/copilot) &nbsp;&nbsp;
+<img alt="Copilot" title="Copilot" src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" height="25"> &nbsp;&nbsp; [Copilot](https://github.com/features/copilot) &nbsp;&nbsp;
 
 <img alt="VSC" title="VSC" src="https://seekicon.com/free-icon-download/visual-studio-code_2.svg" height="28"> &nbsp;&nbsp; [VSC](https://code.visualstudio.com/) &nbsp;&nbsp;
 

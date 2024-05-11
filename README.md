@@ -1,7 +1,7 @@
 ## About me:
-Hi, my name is Damian. I'm a Front-end Developer interested in UX/UI design and modern web technologies, including AI. I enjoy a quiet life in the countryside, where I can peacefully develop my passions. My ultimate goal is to become a Fullstack Software Engineer and work on a project that solves real problems and ensures a great user experience.
+Hi, my name is Damian. I'm a Front-end Developer interested in UX design and modern web technologies, including AI. I enjoy a quiet life in the countryside, where I can peacefully develop my passions. My ultimate goal is to become a Fullstack Software Engineer.
 
-Privately, I'm a fan of ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-fi movies.
+Privately, I'm a fan of 🏕 nature, 🎵 music, ☕ black coffee, ⚽ football, 🐕 dogs, and 🛸 sci-fi.
 
 - 💻 I’m currently building:
   - [dd-duszynski.github.io](https://dd-duszynski.github.io/) - My personal website

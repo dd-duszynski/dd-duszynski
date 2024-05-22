@@ -1,5 +1,7 @@
 ## About me:
-Hello! I am a Front-end Developer and UX/UI design enthusiast specializing in React.js and TypeScript. I'm currently exploring the Node.js ecosystem to evolve into a Full-stack Software Engineer, which is my main goal.
+Hello! I am a Front-end Developer and UX/UI design enthusiast specializing in React.js and TypeScript. 
+
+I'm currently exploring the Node.js ecosystem to evolve into a Full-stack Software Engineer, which is my main goal.
 
 Privately, I enjoy a quiet life in the countryside, where I can peacefully develop my skills and passions. </br> I'm a fan of ⚽ football, 🐕 dogs, ☕ black coffee and 🛸 sci-fi.
 

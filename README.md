@@ -9,7 +9,7 @@ Feel free to connect with me if you share similar interests or if you're interes
 
 - 💻 I’m currently building:
   - [dd-duszynski.github.io](https://dd-duszynski.github.io/) - My personal website
-  - [Big Five Stats](https://big-five-stats-git-main-dd-duszynski.vercel.app/) - An application created with a passion for football statistics.
+  - [Big Five Stats](https://big-five-stats.vercel.app/) - An application created with a passion for football statistics.
   
 - 📚 I’m currently learning:
   - Next.js
